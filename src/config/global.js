@@ -2,7 +2,7 @@ export const global = {
   nombrePrograma: 'Supervisión en sistemas de agua y saneamiento',
   codigo: '921200',
   horas: '3984',
-  semanas: '21',
+  semanas: '27',
   modalidad: 'A distancia',
   requisitosIngrso: [
     'Nivel académico: Media académica.',
