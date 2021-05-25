@@ -191,6 +191,7 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+.banner-principal .tarjeta{background-color: linear-gradient(45deg, rgba(9,9,121,1) 0%, rgba(9,9,121,1) 33%, rgba(0,212,255,1) 100%);}
 .bg-outlined{border: 1px solid #d0e2f5; color: #000; font-weight: 600; background-color: #d6e9fb; margin-right: 10px}
 .tarjeta-numerada{margin-left: 0px; padding:25px; border-color: #d0e2f5; }
 .mh-250{min-height: 260px}
