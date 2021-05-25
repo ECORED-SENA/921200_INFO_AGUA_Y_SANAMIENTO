@@ -1,15 +1,14 @@
 export const global = {
-  nombrePrograma:
-    'Atención integral de urgencias a víctimas de ataque con agentes químicos',
-  codigo: '33110258',
-  horas: 48,
-  semanas: 4,
-  modalidad: 'virtual',
+  nombrePrograma: 'Supervisión en sistemas de agua y saneamiento',
+  codigo: '921200',
+  horas: '3984',
+  semanas: '21',
+  modalidad: 'A distancia',
   requisitosIngrso: [
-    'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
-    'Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.',
-    'Cumplir con el trámite de selección definido por el Centro de Formación.',
-    'Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.',
+    'Nivel académico: Media académica.',
+    'Certificación académica de Grado 11.',
+    'Edad mínima: 14 años.',
+    'Requisitos adicionales: Presentar resultado de la prueba o examen de estado de la educación media.',
   ],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
@@ -258,7 +257,7 @@ export const menuPrincipal = {
 
 export const creditos = {
   liderEquipo: {
-    nombre: 'Maria Camila Garcia Santamaria',
+    nombre: 'Ingry Dayanna Bonilla Monzon',
     cargo: 'Líder del equipo',
   },
   contenidoInstruccional: [
@@ -275,49 +274,9 @@ export const creditos = {
       regional: 'Regional Santander',
     },
     {
-      nombre: 'Astrid Lili Puerta',
-      cargo: 'Experta temática',
-      centro: 'Centro Agropecuario de Buga',
-      regional: 'Regional valle',
-    },
-    {
-      nombre: 'Javier Enrique Santana',
-      cargo: 'Experto temático',
-      centro: 'Centro de Gestión Industrial',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'Michael Andrés Cortés Caro',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-    },
-    {
-      nombre: 'Mauricio Jiménez Fajardo',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-    },
-    {
-      nombre: 'Manuel Alejandro Garzón Cárdenas',
-      cargo: 'Experto temático',
-      centro: 'Deutsche Gesellschaft für',
-      regional: 'Internationale Zusammenarbeit (GIZ)',
-    },
-    {
-      nombre: 'Liliana Victoria Morales Gualdrón',
-      cargo: 'Diseñador instruccional',
-      centro: 'Centro para la Industria y la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'Carlos Andrés Rodríguez',
-      cargo: 'Evaluador instruccional',
-      centro: 'Centro de Diseño y Metrología',
-      regional: 'Regional Distrito Capital',
-    },
-    {
       nombre: 'Julieth Paola Vital López',
       cargo: 'Revisora de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
+      centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
   ],
@@ -331,12 +290,14 @@ export const creditos = {
       cargo: 'Integración de recursos y pruebas',
     },
     {
-      nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+      nombre: [
+        'Adriana Rincón Avendaño',
+        'Maria Camila Ovalle Ospina',
+        'Yazmin Rocio Figueroa Pacheco',
+        'Yenny patricia Ulloa Villamizar',
+        'Víctor Raúl Cárdenas Cáceres',
+      ],
       cargo: 'Diseño web y Producción Audiovisual',
-    },
-    {
-      nombre: 'Edward Leonardo Pico Cabra',
-      cargo: 'Desarrollo Front-End',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -345,8 +306,8 @@ export const creditos = {
   ],
   gestoresRepositorio: [
     {
-      nombre: 'Brayan Stiven Pinto Diaz',
-      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      nombre: ['Brayan Stiven Pinto Diaz', 'Ricardo Alfonso Gonzalez Vargas'],
+      cargo: 'Validación de recursos',
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },
