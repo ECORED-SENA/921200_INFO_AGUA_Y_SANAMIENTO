@@ -28,13 +28,13 @@ section
               | Comprobar funcionamiento de sistemas de agua de acuerdo con normas técnicas.
             li
               span.badge.bg-outlined 280201225
-              | Supervisar actividades del servicio de aseo de acuerdo con planeación y normativa.
+              | Supervisar actividades de servicio de aseo de acuerdo con planeación y normativa.
             li
               span.badge.bg-outlined 280201221 
               | Potabilizar agua de acuerdo con normas técnicas.
             li
               span.badge.bg-outlined 280201226  
-              | Tratar agua residual de acuerdo con procedimientos técnicos.
+              | Tratar agua residual de acuerdo con los procedimientos técnicos.
             li
               span.badge.bg-outlined 230101239
               | Promocionar acciones de salud de acuerdo con la normativa de salud pública.
