@@ -22,9 +22,6 @@ export default {
     menuOpen: false,
     globalData: global,
   }),
-  created() {
-    document.title = this.globalData.componenteFormativo
-  },
 }
 </script>
 
