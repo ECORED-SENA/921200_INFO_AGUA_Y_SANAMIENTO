@@ -12,7 +12,7 @@ export const global = {
   ],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
-    '<iframe width="560" height="315" src="https://www.youtube.com/embed/I-gaLnuVP8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    '<iframe width="560" height="315" src="https://www.youtube.com/embed/flsCFfrr21s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
 
